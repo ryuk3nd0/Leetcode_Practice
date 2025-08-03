@@ -1,1 +1,1 @@
-# SQL_Practice
+# LeetCode_Practice
